@@ -1,8 +1,8 @@
 package sql
 
 import (
-	"all-news/conf"
-	"all-news/lib"
+	"[app name]/conf"
+	"[app name]/lib"
 	"database/sql"
 	"database/sql/driver"
 	"encoding/json"
