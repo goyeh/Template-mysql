@@ -1,7 +1,7 @@
 package conf
 
 import (
-	"all-news/lib"
+	"[app name]/lib"
 	"flag"
 	"log"
 	"os"
